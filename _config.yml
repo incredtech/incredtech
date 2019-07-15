@@ -51,3 +51,5 @@ jekyll-archives:
 markdown: kramdown
 highlighter: rouge
 
+
+theme: jekyll-theme-slate
